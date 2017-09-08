@@ -1,0 +1,16 @@
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\DroneLander.dll
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\DroneLander.pdb
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.csprojResolveAssemblyReference.cache
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.MainPage.xaml.g.cs
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.App.xaml.g.cs
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.dll
+C:\Users\JESUS\source\repos\XamarinMissionMars\DroneLander\DroneLander\DroneLander\obj\Debug\DroneLander.pdb
